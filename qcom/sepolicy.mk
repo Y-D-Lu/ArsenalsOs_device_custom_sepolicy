@@ -1,6 +1,6 @@
 #
 # This policy configuration will be used by all qcom products
-# that inherit from PixelExperience
+# that inherit from Arsenals Os
 #
 
 ifeq ($(TARGET_COPY_OUT_VENDOR), vendor)

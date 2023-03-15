@@ -1,6 +1,6 @@
 #
 # This policy configuration will be used by all products that
-# inherit from PixelExperience
+# inherit from Arsenals Os
 #
 
 ifeq ($(TARGET_COPY_OUT_VENDOR), vendor)
